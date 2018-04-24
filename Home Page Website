@@ -1,0 +1,219 @@
+<!DOCTYPE HTML>
+<!--
+	Stellar by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Brogrammers</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
+		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
+	</head>
+	<body>
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Header -->
+					<header id="header" class="alt">
+						<span class="logo"><img src="images/icon.png" alt="" /></span>
+						<h1>Brogrammers</h1>
+						<p>Just a couple of bros<br />
+						</p>
+					</header>
+
+				<!-- Nav -->
+					<nav id="nav">
+						<ul>
+							<li><a href="#intro" class="active">Introductions</a></li>
+							<li><a href="#first">Industry Data</a></li>
+							<li><a href="#second">IT Work</a></li>
+							<li><a href="#third">IT Technologies</a></li>
+							<li><a href="#fourth">Project Ideas</a></li>
+							<li><a href="#cta"></a></li>
+
+						</ul>
+					</nav>
+
+				<!-- Main -->
+					<div id="main">
+
+						<!-- Introduction -->
+							<section id="intro" class="main">
+								<div class="spotlight">
+									<div class="content">
+										<header class="major">
+											<h2>Owen (The Rebellious One)</h2>
+										</header>
+										<p> I was born and raised in Melbourne a mother who is a physiotherapist 
+										and father who is a medical physicist. Successfully completed a Advanced 
+										diploma of Electronic and Communication Engineering. My interests are 
+										playing games on my PC and PS4 such as World of Warcraft and League of 
+										Legends, which gave me my interest of IT and the idea to learn more about 
+										it. My experience in IT is small but I have some knowledge due to the 
+										advanced diploma course such as programming and hardware.</p>
+										<ul class="actions">
+											<li><a href="https://s3-ap-southeast-2.amazonaws.com/s3492611/Assignment+1/Assingment+1.html" class="button">Learn More</a></li>
+										</ul>
+									</div>
+									<span class="image"><img src="images/owenpic.jpg" alt="" /></span>
+								</div>
+							</section>
+
+						<!-- First Section -->
+							<section id="intro" class="main">
+								<div class="spotlight">
+									<div class="content">
+										<header class="major">
+											<h2>Oliver (The Cute One)</h2>
+										</header>
+										<p>Born and raised in Melbourne, come from a family who immigrated 
+										from Europe. My hobbies include playing video games such as League 
+										of Legends. My interest in IT stems from my brother who is a Software 
+										Developer which gave me an early insight into the industry. My IT 
+										experiences are pretty bare comprising of some skills learnt through 
+										high-school including using Photoshop, and dealing with binary numbers.</p>
+										<ul class="actions">
+											<li><a href="https://s3-ap-southeast-2.amazonaws.com/3722681/website.html" class="button">Learn More</a></li>
+										</ul>
+									</div>
+									<span class="image"><img src="images/olivierpic.jpg" alt="" /></span>
+								</div>
+							</section>
+
+						<!-- Second Section -->
+							<section id="intro" class="main">
+															<div class="spotlight">
+									<div class="content">
+										<header class="major">
+											<h2>Vincent (The Goofy One)</h2>
+										</header>
+										<p>Born and raised in Melbourne. Constantly mistaken as an international.
+										Cultural background is Vietnamese. Within my spare time, i enjoy playing 
+										games, particularly League of Legends. My interest in IT would have started
+										from high school, learning about networking and the such I began to gain 
+										an interest and wanted to gain more knowledge within University. The main 
+										experience I have achieved in IT would be from high school, utilising 
+										programs from Word as well as Dreamweaver and Photoshop. </p>
+										<ul class="actions">
+											<li><a href="https://s3-ap-southeast-2.amazonaws.com/s3720426/html5up-stellar/index.html" class="button">Learn More</a></li>
+										</ul>
+									</div>
+									<span class="image"><img src="images/vincepic.jpg" alt="" /></span>
+								</div>
+							</section>
+
+						<!-- Get Started -->
+							<section id="intro" class="main">
+								<div class="spotlight">
+									<div class="content">
+										<header class="major">
+											<h2>Xinyi (The Shy One)</h2>
+										</header>
+										<p>I was born and raised in China,started study in Melbourne at 2016,
+										so I finished y11 and y12 in here.In my spare time I like playing games 
+										and variety show.My interest in IT was started from middle school,because 
+										I was shocked by that codes can build so many things.My experience of 
+										IT was in my middle school life,I have learnt some skills like photoshop.</p>
+										<ul class="actions">
+											<li><a href="https://s3-ap-southeast-2.amazonaws.com/s3713942/index.html" class="button">Learn More</a></li>
+										</ul>
+									</div>
+									<span class="image"><img src="images/elisepic.jpg" alt="" /></span>
+								</div>
+							</section>
+
+						<!-- Industry Data -->
+							<section id="first" class="main special">
+								<header class="major">
+									<h2>Industry Data</h2>
+									<p></p>
+								</header>
+								<footer class="major">
+									<ul class="actions">
+										<li><a href="industrydata.html" class="button">Tell me more!</a></li>
+									</ul>
+								</footer>
+							</section>
+
+
+						<!-- IT Work -->
+							<section id="second" class="main special">
+								<header class="major">
+									<h2>IT Work</h2>
+									<p>In order to help us understand the IT industry we have 
+									interviewed a professional, resulting with a better
+									understanding.</p>
+								</header>
+								<footer class="major">
+									<ul class="actions">
+										<li><a href="itwork.html" class="button">View the interview results</a></li>
+									</ul>
+								</footer>
+							</section>
+
+
+						<!-- IT Technologies -->
+							<section id="third" class="main special">
+								<header class="major">
+									<h2>IT Technologies</h2>
+									<p>Within the IT world there are many fascinating developments
+									which have the potential to change how the world works. Here, 
+									we have researched ground breaking developments within todays
+									technology that may be able to affect our daily lives.</p>
+								</header>
+								<footer class="major">
+									<ul class="actions">
+										<li><a href="ITtechnologies.html" class="button">Show me!</a></li>
+									</ul>
+								</footer>
+							</section>
+
+						<!-- Project Ideas -->
+							<section id="fourth" class="main special">
+								<header class="major">
+									<h2>Project Ideas</h2>
+									<p>Within the IT World, there are plenty of project ideas 
+									are needed to help solve everyday problems. With our project 
+									idea we propose that..</p>
+								</header>
+								<footer class="major">
+									<ul class="actions">
+										<li><a href="projectideas.html" class="button">Tell me more!</a></li>
+									</ul>
+								</footer>
+							</section>
+					</div>
+				<!-- Footer -->
+					<footer id="footer">
+
+						<section>
+							<h2></h2>
+							<dl class="alt">
+								<dt>Email</dt>
+								<dd><a href="#">information@untitled.tld</a></dd>
+							</dl>
+							<ul class="icons">
+								<li><a href="https://github.com/ODawgz/Assignment-2" class="icon fa-github alt"><span class="label">GitHub</span></a></li>
+							</ul>
+						</section>
+						<p class="copyright">&copy; Untitled. Design: <a href="https://html5up.net">HTML5 UP</a>.</p>
+					</footer>
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/skel.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
