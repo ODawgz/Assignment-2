@@ -21,8 +21,8 @@
 
 				<!-- Header -->
 					<header id="header">
-						<h1>Generic</h1>
-						<p>Ipsum dolor sit amet nullam</p>
+						<h1>IT Technologies</h1>
+						<p>The following presents 4 areas of IT which have </p>
 					</header>
 
 				<!-- Main -->
@@ -30,12 +30,303 @@
 
 						<!-- Content -->
 							<section id="content" class="main">
-								<span class="image main"><img src="images/pic04.jpg" alt="" /></span>
-								<h2>Magna feugiat lorem</h2>
-								<p>Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fergiat. Pellentesque in mi eu massa lacinia malesuada et a elit. Donec urna ex, lacinia in purus ac, pretium pulvinar mauris. Curabitur sapien risus, commodo eget turpis at, elementum convallis fames ac ante ipsum primis in faucibus.</p>
-								<p>Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Consequat leo mauris, consectetur id ipsum sit amet, fersapien risus, commodo eget turpis at, elementum convallis elit enim turpis lorem ipsum dolor sit amet feugiat. Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis mauris, eu ultricies erat malesuada quis. Aliquam dapibus, lacus eget hendrerit bibendum, urna est aliquam sem, sit amet est velit quis lorem.</p>
-								<h2>Tempus veroeros</h2>
-								<p>Cep risus aliquam gravida cep ut lacus amet. Adipiscing faucibus nunc placerat. Tempus adipiscing turpis non blandit accumsan eget lacinia nunc integer interdum amet aliquam ut orci non col ut ut praesent. Semper amet interdum mi. Phasellus enim laoreet ac ac commodo faucibus faucibus. Curae ante vestibulum ante. Blandit. Ante accumsan nisi eu placerat gravida placerat adipiscing in risus fusce vitae ac mi accumsan nunc in accumsan tempor blandit aliquet aliquet lobortis. Ultricies blandit lobortis praesent turpis. Adipiscing accumsan adipiscing adipiscing ac lacinia cep. Orci blandit a iaculis adipiscing ac. Vivamus ornare laoreet odio vis praesent nunc lorem mi. Erat. Tempus sem faucibus ac id. Vis in blandit. Nascetur ultricies blandit ac. Arcu aliquam. Accumsan mi eget adipiscing nulla. Non vestibulum ac interdum condimentum semper commodo massa arcu.</p>
+								<span class="image main"><img src="images/raspberrypic.jpg" alt="" /></span>
+								<h2>Raspberry Pi</h2>
+								<p>The Raspberry Pi is a credit card sized micro-computer. The original goal for 
+								the Raspberry Pi was to help those increase their programming skill level as well 
+								as improving their understanding of hardware. However, after being adapted by 
+								electronic enthusiasts, the Raspberry Pi has been used to create an unbelievable 
+								number of projects with an almost infinite range of ideas. Whether it be making games, 
+								programming robots or even making smart mirrors. </p>
+
+								<p>With a large community that uses the Raspberry Pi, there have been many fascinating 
+								projects that have been created. One of these would be the smart mirror. Having a 
+								Raspberry Pi connected with a monitor within a mirror to give details of the day&#39;s 
+								headlines and weather. This project is just a slight representation of the endless 
+								possibilities that the raspberry pi can be used for. Within today&#39;s age, the raspberry 
+								pi is used to create solutions to everyday problems, helping assist in the daily lives 
+								of the everyday worker. Those who use the raspberry pi, create these solutions to problems 
+								using programming. However, the main way to bring out the potential of the raspberry pi 
+								is creativity. With creativity, it is possible to bring out amazing solutions to these 
+								everyday problems. An example of this is seen through the development of the Alexa-powered 
+								dash cam (Chris Smith, March 14), the device being able to work as a dash-cam whilst 
+								also being able to alert the driver of a frontal collision as well as provide hands 
+								free ability to sync with Spotify and Google Maps.</p>
+
+								<p>Within the future, it will be possible to imagine many solutions to dire problems. This 
+								could be related to major problems such as environmental issues or even issues regarding 
+								health.  With the steady advancement of the raspberry pi, it could be possible to create 
+								devices that monitor a person&#39;s heart rate, or even check for any diseases! However, in 
+								order for the advancements to happen, it would require a stronger raspberry pi, that is, 
+								it would most likely require stronger parts than what it currently has now. </p>
+
+								<p>While the raspberry pi is used to create ideas and give them life, it gives users 
+								across the globe the ability to learn and enhance their programming skills and problem-solving 
+								skills. Making it a viable source to practice on. In future&#39;s time, the raspberry pi could affect 
+								the next generations programming skill and further increase it, with the possibility of advancing 
+								the technology in the future. </p>
+
+								<p>In order to make these technological developments possible, the raspberry pi requires 
+								other materials which depend on the project. For example, for the smart mirror, the 
+								raspberry pi requires a monitor which is placed behind the two-way mirror. As there are 
+								countless of raspberry pi projects available, it highly depends on the projects main goal 
+								of which technology it will be paired with. Another factor which enables the use of this 
+								state of the art new technology is the different versions of the raspberry pi; these being 
+								the raspberry pi 3, raspberry pi 2, and original raspberry.</p>
+
+								<p>With the development of the raspberry pi it could impact the future of society in many 
+								ways ranging from music to day to day activities as well as potentially even affecting 
+								important facilities such as hospitals. It can create an impact through the many projects 
+								within these categories, helping people with their daily activities or just making methods 
+								more efficient, e.g. unlocking a door using an app and a raspberry pi. As technology 
+								advances the raspberry pi may also gain more advancements, probably being able to run a 
+								stronger processor or containing more USB ports with a more slim and convenient body. 
+								If this being the case, it will able to develop more advance projects. Within today&#39;s 
+								society, it will most likely affect those who wish for more of a convenient life. By 
+								this I mean that those who wish for an easier way and/or even faster method on completing 
+								a task would most definitely be affected by the projects people create utilising the 
+								raspberry pi. Although it will make methods easier for the average worker, it will most 
+								likely not come to the point of a person losing their job as the raspberry pi is only 
+								essentially a mini computer that does not run on with heavy specs. Meaning that although, 
+								there are projects that help people with tasks, the raspberry pi is only used to create 
+								fun lively projects. The only possibility of jobs being replaced or making any jobs 
+								redundant is if the raspberry pi achieves a major advancement which would allow for 
+								ground-breaking projects that could help tasks associated with major facilities today, 
+								such as hospitals, or hospitality industries. </p>
+
+								<p>The raspberry pi can affect the average persons daily life heavily, depending on the 
+								tasks that need to be done on the day. The affects would most likely be leaning towards 
+								more of an advantage as the raspberry pi would most likely be doing tasks which allow for 
+								a more convenient life. The only difference that the raspberry pi would make within my 
+								daily life, is the chance of making tasks easier to use as mentioned before. In my belief, 
+								the raspberry pi could affect my family and friends in a positive way, with the raspberry 
+								pi not only being able to complete tasks, it would give friends and family a way to 
+								challenge themselves with programming. That is, they could experiment with the raspberry 
+								pi and think of creative ideas on completing easier tasks or creating fun projects. Who 
+								knows they could maybe even create a pet dog? </p>
+
+								<span class="image main"><img src="images/selfdrivingpic.jpg" alt="" /></span>
+
+								<h2>Autonomous Vehicles</h2>
+								<p>Self driving cars is a concept that is not new as it has been mentioned back in the 50&#39;s, 
+								however it is only recently that the technology is available to synthesize one. It uses 
+								very fast and powerful processors as well as top of the line long and short range laser 
+								sensors letting these talk to themselves to distinguish every variable on the road. Of 
+								course it is still in the testing phase as it is not a completely functional device. In my 
+								Advanced Diploma of Communications and Electronic Engineering my last project was to design 
+								and build a self driving car. From this experience I learned a few things: one &#45; you need a 
+								lot of sensors to make it see everything, two &#45; its needs to be coded perfectly, three &#45; if 
+								it detects its going to crash it has to stop and four &#45; even if you have perfected the last 
+								three things it can still malfunction. To build something that is constantly taking in 
+								changing information at high speeds then trying to process that information and make a 
+								decision is very complicated.Companies like Tesla and Google that are leading the 
+								development of the self driving car have a large budget to get this idea working. </p>
+								
+								<p>Recently 
+								in the media a lot of talk has been about the self driving car as well as controversy about 
+								it malfunctioning and harming others, these faults are the main issue with the cars. The 
+								most recent story was about Uber releasing their own self driving car however while on a 
+								trip the car collided with a woman on a bicycle and unfortunately killed her, the report 
+								said that the sensors could not distinguish what was in front of it. The car was using a 
+								sensor that uses lasers called Lidar that pulses light to create a 3D picture around 
+								the object which is considered the best sensor on the market at the moment however the problem is 
+								that the laser needs to land on enough of a object to distinguish what it is. Steven 
+								Shladover, a UC Berkeley research engineer said &#34;I think the sensors on the vehicles should have 
+								seen the pedestrian well in advance,&#34;. It is clear that this idea has a long way to go 
+								before it is ready to be used in every day life but breakthroughs and innovation happen 
+								every day and the fact that is now up to the real world testing phase tells us that these 
+								vehicles could be ready in the next few years. The obstacles in front of this idea are 
+								sensors that have limited visibility and cant distinguish objects around them. To remedy 
+								this sensor developers such as Velodyne will just have to keep working on better and better 
+								sensors for these projects. The programmers of the cars will also have to build in a base 
+								line code that is always executed no matter what, which is if something is in front of the 
+								car and rapidly approaching, stop. I'm sure that this is already in the programming but it 
+								should be just the default response no matter what. There are no quick ways to make this 
+								idea safe and efficient, it will just take time to test, tweak and build. Programmers need 
+								to remove bugs, sensors need to better see what&#39;s around them and testers need to make sure 
+								they can control the car before accidents happen.</p>
+					
+								<p>Should this idea become a everyday utility it would have both positive and negative 
+								impacts on the world but mostly negative. The largest impact this would have is that taxis, 
+								Uber drivers, truck drivers and any other forms of a transport service would reduce rapidly.
+			 					This technology still requires a qualified driver in the front seat but they can relax 
+								knowing the navigation control will do most of the work. While this convenience could 
+								reduce the amount of accidents on the road it does not provide new jobs as car factories 
+								have already been outsourcing their workers to assembly lines. This would leave a large 
+								amount of workers out of a job without providing them with a new area to move into. If 
+								autonomous vehicles extends to transport trucks then many companies will choose this option 
+								as the service will be more efficient as the deliveries will not have to stop like a driver 
+								would. As well as public transport like busses or trams, their workers could be made 
+								redundant. Should autonomous vehicles be a mainstream commodity and the navigation and 
+								sensors have a full proof system then legislation at the state government could be passed 
+								that cars no longer require a qualified driver in control. If this Uber will also take a 
+								hit, a large amount of Uber users utilize the service because they going to consume alcohol 
+								no one has to be the designated driver. And if this hypothetical legislation should come 
+								into effect, the need for those to acquire a drivers licence will be redundant which will 
+								impact government branches such as Vic Roads, costing jobs there and also independent 
+								driving schools.  If self driving cars are realized then there will be issues to deal with. </p>
+
+								<p>The effect of self driving cars would impact my life and the lives of my friends and family 
+								in various ways. As I only mainly use a car to run errands or travel too and from work, there 
+								would not be much change to my routine, however for my family it would make the commute to work 
+								and back more bearable as they travel during peak times with a lot of congestion on the roads. 
+								Now I could use this new technology if it didn&#39;t require a driver in the front seat for nights 
+								when I will drink alcohol and get picked up without having to pay a service such as Uber or taxis. 
+								And if the law comes into effect when the vehicles do not need a driver inside, then I'm sure a 
+								service will come in where you book a car that comes and picks you up and takes you where ever 
+								you want for a fee then that could start the decline of user owned cars. As the costs of owning 
+								your own car are very expensive many people would love a service where you book a car and it is 
+								at your door when you booked it ready to take you to where you want to go, without having to pay 
+								for registration, insurance and fuel. Of course if I choose to specialise in programming I could 
+								be hired by a company to work on the brains of the self driving car, which I can imagine being very 
+								full time work as with so many machines out there, many bugs and problems would arise. Luckily I 
+								do not know anyone that would be out of a job due to this however I sympathise with those that 
+								will. </p>
+
+								<span class="image main"><img src="images/bitcoinpic.jpg" alt="" /></span>
+								<h2>Blockchain and Cryptocurrencies</h2>
+								<p>Blockchain is a relatively new phenomenon invented by Satoshi Nakamoto in 2008. The blockchain technology provides several creative avenues for technologies with cryptocurrency being just one. The potential is seemingly endless and with the recent successes of cryptocurrencies - most notably Bitcoin, Blockchain is quickly becoming the premier platform for application development. Currently, developers are utilising the Blockchain technology to create decentralised technologies, some influential companies including CoinDesk and Kik have already applied the Blockchain model to their development. </p>
+
+								<p>Blockchain model is especially intriguing for developers as the benefits it provides are hard 
+								to miss, these include; decentralisation, transparency/trust and integrity. Cryptocurrencies are largely 
+								the product of Blockchain, as Sally Davies FT Technology reporter describes &#34;Blockchain is to 
+								[cryptocurrencies], what the internet is to email&#34;. As opposed to the types of currencies we 
+								are familiar with in this day and age such as; electronic money and centralized banking systems, 
+								cryptocurrencies utilise decentralised control which is made possible through Blockchain. The main 
+								appeal of cryptocurrencies is in the Distributed Ledger which allows for the consensual distribution 
+								of data making the threat of a cyberattack less possible and eliminating the need for a central authority 
+								to monitor against manipulation. </p>
+
+								<p>Bitcoin, dubbed &#34;digital gold&#34; has a total value of approximately 150B (USD) as of 22/04/18 
+								compared to it&#39;s value of 40M (USD) in Q1 of 2012. Despite this rapid growth in market capitalization, 
+								the larger population is still unaware of the existence of Bitcoin (approximately 76% of Americans). 
+								The challenge which Bitcoin and other cryptocurrencies face is making the platform more accessible to 
+								the general population ie mainstreaming cryptocurrencies. According to a survey conducted in early 2018, 
+								a majority 38% of those surveyed believe Bitcoin to be a bubble destined to pop sometime this year. 
+								The barrier for cryptocurrencies becoming mainstream seems to be the population not seeing any long 
+								term value but rather believing it to be a passing fad. This hinders the growth of cryptocurrencies as 
+								in order to become a mainstream commodity the general public must be made aware of the potential benefits. 
+								Cryptocurrency mining is an increasingly popular method for acquiring various cryptos. This method of &#39;mining&#39; 
+								does not require investors to actually buy cryptocurrencies but rather contribute to the open ledger as auditors, 
+								by verifying transactions miners are able to prevent problems such as double-sending. To run a successful 
+								mining operation you need to have a gpu or an application-specific integrated circuit these can run from 
+								a few hundred dollars to thousands of dollars. </p>
+
+								<p>A step by step process to crypto mining:</p>
+									<li>Mining computers collects pending crypto transactions and turn them into a mathematical puzzle
+									<li>The first mining computer to solve this puzzle announces it to the network 
+									<li>Then the other miners check if the puzzle was solved correctly and whether the person has the correct amount of money to complete the transaction
+									<li>If enough miners verify the transaction the block is added to the leger and the mining computer moves on to the next pending transaction </li>
+								</p>
+
+								<p>Cryptocurrencies becoming mainstream has the potential to completely alter the way we use and think 
+								of money. The traditional bank model will be left behind as people will utilize the decentralized nature 
+								of cryptocurrencies where no third parties are required. Along with the rise of cryptocurrencies and the 
+								popularisation of the blockchain model new field of work have naturally been introduced. According to Forbes, 
+								job listing which contain &#39;Blockchain&#39;, &#39;Bitcoin&#39; or &#39;Cryptocurrency&#39; have gone up 
+								by ~600% since November 2015 accompanying the ~1000% increase of job searches with the same titles mentioned 
+								before. The two jobs most frequently listed are mining technicians and cryptocurrency analysts. Companies 
+								such as Ebay, Uber and GEICO have began searching for potential employees with backgrounds in blockchain 
+								and cryptocurrencies. Although it may seem that cryptocurrencies may rival the central banks it will not 
+								completely replace banks as cryptocurrencies can not yet accomplish crucial tasks including lending. 
+								Furthermore banks play an important role in government policies which cryptocurrencies can not as they 
+								are politically agnostic. Despite the threat which cryptocurrencies may present to central banks, some 
+								banks including Westpac have decided to integrate their business with the developing craze investing in 
+								Coinbase, the largest cryptocurrency wallet. Banks not ignoring cryptocurrencies but rather working together 
+								with them will ensure more jobs for the future.</p>
+
+								<p>For consumers, the implementation of cryptocurrencies will not affect their everyday lives to a greater 
+								extent. Most obviously, they might notice cheaper prices in the denomination they utilize. Also, money 
+								transfers will be made extremely quickly replacing the current delay when &#39;wiring&#39; money.</p>
+								
+								<p>Scenario: My friend (Jack) would like to wire money into my bank account to repay me after buying 
+								him lunch. However Jack is with Capital and I am with QuickLoans. A standard bank transfer may take a 
+								while, up to a week. However with the decentralized network cryptocurrencies provide, a transfer of 
+								this nature would take mere seconds.</p>
+								
+								<p>Cryptocurrencies create more efficient and streamlined processes in our everyday lives. We would no 
+								longer have to tolerate outdated technologies but instead adopt new and improved ones.</p>
+
+								<p>The popularisation of cryptocurrency mining dramatically affects the price of gpu’s consequently 
+								making them more expensive as the demand exponentially increases. This may affect the average consumer 
+								as if they want to build a pc they may have to put down more money in order to implement a graphics card.</p>
+
+								<span class="image main"><img src="images/machinepic.jpg" alt="" /></span>
+
+								<h2>Machine Learning</h2>
+								<p>Machine learning is a method that lets computers learn and act like a human does and improves their learning 
+								over time in autonomous fashion, by feeding them data and information in the form of observations and real-world 
+								interactions.This technology has been widely used in many areas such as financial services, they use machine 
+								learning to track if the customer is satisfied with the products or if they will still be interested in those 
+								products, as well as this, it will assist firms in calculating the risk so they can know what they should 
+								do in future terms.</p>
+
+								<p>There are lots of websites which has recommendation thus making it also a type of machine learning, allowing 
+								the websites to offer the suitable products to users because the recommendation is based on a user&#39;s purchase 
+								and view history.Machine learning has lots of advance products,for example,most people are familiar with the word 
+								AI,machine learning is a part of AI.AI is the abbreviation of artificial intelligence,it allows the machine to 
+								perform like a human and with emotion which is often appeared in fiction stories and movies,machine learning 
+								gives the ability for the machine to learn by itself, making machine learning important for the AI as it 
+								develops, making it the core of AI.</p>
+
+								<p>Nowadays, machine learning can already do many things,except financial services, calculate risks and send 
+								recommendations, machine learning still plays an important part. Many smartphones have the speech recognition 
+								function which benefits from machine learning.This kind of function is relies on natural language processing 
+								to recognize speech and synthesis, allowing them to understand or pronounce words they have never encountered 
+								before. Another example is the common online translation tools, It&#39;s actually created from a set of machine 
+								learning algorithms that updates the service over time based on input from users, like new words and syntax. 
+								Furthermore, we have autonomous vehicles, which is enabled through machine learning, allowing the driver to 
+								drive hands free without needing to worry.</p>
+
+								<p>In next 3 years, machine learning will be a important part in society and our life.With the develops of 
+								different kinds of technologies, more advanced intelligence will surely be invented and become important, 
+								as people all want their lives to be convenient. There are still lots of requirements for new technology 
+								and intelligence, machine learning has an important role in this area and the reason is it&#39;s true that machine 
+								learning gives us convenience. Moreover,in the future,more and more machines will be released and widely used like 
+								in factories,laboratories and hospitals.This is due to the manpower not being enough for these areas and the speed and accuracy 
+								is not very high; which allows machines to make up for those shortcomings. These places need machines to complete 
+								the work to make sure there is effectiveness.</p>
+
+								<p>The word &#34;machine learning&#34; was created in 1959 by Arthur Samuel.This kind of technology is closely related to 
+								computational statistics and data science which makes machine learning become a novel intelligence,and become popular,
+								and the developments of all science technologies also help it.</p>
+
+								<p>Machine learning gives us a new kind of way to do statistics,data analytics and algorithm,so it can say that machine 
+								learning already changes the way we study and do calculations. This impact is able to promote new inventions, and able 
+								to impact our daily life, as the machines are able to help us do many tedious things.</p>
+
+								<p>In the future our lifestyle would most likely change. That is, finances,data, and the internet. Machine learning 
+								makes data analytics become easy to do, to analyses large amount of data,it may be able to finish in a short time which 
+								would save people&#39;s time.In financial part,firms don&#39;t need to find their potential customer, don&#39;t need to worry about 
+								the risk and Algorithmic trading as the machine can finish all these things at a more faster and more accurate 
+								process than a human could.</p>
+
+								<p>The people that would be most affected would most likely be scientists and financiers. Scientists can use machine 
+								learning to help them do those tedious tasks and it will be better than a humans work, thus saving their time and energy. 
+								Financiers can use machine learning to help them analysis the market and the statistics of their firms then they will 
+								know how to do the next step.</p>
+
+								<p>However, machine learning capabilities may affect those workers that do the tedious and simple things,if there are 
+								instructions,machine can do all things that they can do even may do better than them.However,if machine was dependent,
+								there need more people to develop it so must be more people to be developer or the technology will not enough for the society.</p>
+
+								<p>When I watch things or listen to music,it will recommend some similar things to me after that,because it is stored within the 
+								history, the machine can find some similar items from the database,then recommend it to me.When I search some information,the 
+								machine will also save this memory then just keep it and recommend it to me.There is another thing is the smart email 
+								categorization which can help me know which email it belongs to and which category due to this it&#39;s quite useful,because 
+								it becomes better to avoid to see spam within the email.</p>
+
+								<p>Machine learning will bring convenience to us and  it will be easier in my daily life,except the smart email categorization 
+								can let me not see the ad email at all,it also can let me use voice to do somethings instead type which is really good when 
+								I don&#39;t want to type or am busy at the time.</p>
+
+								<p>The effect this has to my family and my friends maybe quite similar to mine,maybe it will be better  for my parent about 
+								the speech recognition, as they are much older than me,so they might don&#39;t want to typing or clicking continuously,so the 
+								speech recognition is very suitable for them. Also the self-driving car is good for many people,I don&#39;t have car but they 
+								have,if they can use that car then will be easier for them,they can do somethings else when the car is driving by itself.</p>
+
+
+
 					<center>
 					<a href="index.html" class="button">Back to Home</a></li>
 					</center>
