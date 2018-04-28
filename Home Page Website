@@ -63,7 +63,7 @@
 									</div>
 									<span class="image"><img src="images/owenpic.jpg" alt="" /></span>
 								</div>
-							</section>
+
 
 						<!-- First Section -->
 							<section id="intro" class="main">
@@ -126,13 +126,52 @@
 									</div>
 									<span class="image"><img src="images/elisepic.jpg" alt="" /></span>
 								</div>
-							</section>
+						<!-- Tables -->
+							<header class="major">
+								<h2>Myers Briggs Test Results</h2>
 
-						<!-- Industry Data -->
+							<span class="image main"><img src="images/test1pic.png" alt="" /></span>
+							<p>The Myers Briggs Test tells us that we as a group have complementary strengths and weaknesses, 
+							for example Owen has poor practical skills but Vincent has strong practical skills as well as this 
+							Vincent is too selfless, in which Olivier can help him with his decisiveness. Each one of us brings 
+							something to the table that can help the assignment and each other. One is great with creativity and another is 
+							great with decisions. We complement each other and the assignment reflects that.</p>
+
+								<h2>Learning Style Test Results</h2>
+							<span class="image main"><img src="images/test2pic.png" alt="" /></span>
+							<p>The Learning style test tells us that our group are mostly visual learners which does help 
+							with a website that should be visually pleasing.</p>
+
+								<h2>Individual Tests</h2>
+							<p>Owen (Big 5 Factors test) &#45; Owen is Extroverted, Emotionally stable, Agreeable, Conscientious and Imaginative.
+							<br>
+							Vincent (Creativity test) &#45; Works well in a team and coming up with new ideas.
+							<br>
+							Olivier (Creativity test) &#45; Analytical when making decisions. 
+							<br>
+							Elise (Big 5 Factors Test) &#45; Elise is Open, Consciences, Extraverted, Agreeable and Neurotic. 
+							<br>							
+							As you can see, we did not all do the same test so we cannot compare all our results but from the 
+							information we can conclude that all of us have something to benefit the assignment and in future
+							group work.</p>
+
+								<h2>Ideal Jobs</h2>
+							<li>Owen Wallace &#45; Game producer
+							<li>Vincent &#45; Software Developer
+							<li>Olivier &#45; Cyber Security Manager
+							<li>Elise &#45; Software Developer
+							<p>Our ideal jobs range quite well and while some might be achievable than others we all have different 
+							goals and aspirations to work towards. Elise and Vincent want a similar job in software development 
+							while Owen wants something completely different. Our career vary with use of different technologies 
+							and focus on different aspects such as software and dealing with people or working in a  group 
+							environment.</p>
+						</section>
+
+						<!-- Industry Data -->	
 							<section id="first" class="main special">
 								<header class="major">
 									<h2>Industry Data</h2>
-									<p></p>
+									<p>Supplied by Burning Glass, we have found data to answer a few questions.</p>
 								</header>
 								<footer class="major">
 									<ul class="actions">
