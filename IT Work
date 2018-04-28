@@ -21,8 +21,8 @@
 
 				<!-- Header -->
 					<header id="header">
-						<h1>Generic</h1>
-						<p>Ipsum dolor sit amet nullam</p>
+						<h1>IT Work</h1>
+						<p>We have interviewed an IT professional to experience what it's like to work in the IT Industry</p>
 					</header>
 
 				<!-- Main -->
@@ -30,12 +30,76 @@
 
 						<!-- Content -->
 							<section id="content" class="main">
-								<span class="image main"><img src="images/pic04.jpg" alt="" /></span>
-								<h2>Magna feugiat lorem</h2>
-								<p>Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fergiat. Pellentesque in mi eu massa lacinia malesuada et a elit. Donec urna ex, lacinia in purus ac, pretium pulvinar mauris. Curabitur sapien risus, commodo eget turpis at, elementum convallis fames ac ante ipsum primis in faucibus.</p>
-								<p>Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Consequat leo mauris, consectetur id ipsum sit amet, fersapien risus, commodo eget turpis at, elementum convallis elit enim turpis lorem ipsum dolor sit amet feugiat. Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis mauris, eu ultricies erat malesuada quis. Aliquam dapibus, lacus eget hendrerit bibendum, urna est aliquam sem, sit amet est velit quis lorem.</p>
-								<h2>Tempus veroeros</h2>
-								<p>Cep risus aliquam gravida cep ut lacus amet. Adipiscing faucibus nunc placerat. Tempus adipiscing turpis non blandit accumsan eget lacinia nunc integer interdum amet aliquam ut orci non col ut ut praesent. Semper amet interdum mi. Phasellus enim laoreet ac ac commodo faucibus faucibus. Curae ante vestibulum ante. Blandit. Ante accumsan nisi eu placerat gravida placerat adipiscing in risus fusce vitae ac mi accumsan nunc in accumsan tempor blandit aliquet aliquet lobortis. Ultricies blandit lobortis praesent turpis. Adipiscing accumsan adipiscing adipiscing ac lacinia cep. Orci blandit a iaculis adipiscing ac. Vivamus ornare laoreet odio vis praesent nunc lorem mi. Erat. Tempus sem faucibus ac id. Vis in blandit. Nascetur ultricies blandit ac. Arcu aliquam. Accumsan mi eget adipiscing nulla. Non vestibulum ac interdum condimentum semper commodo massa arcu.</p>
+								<h2><strong>Michael Kendra</strong></h2>
+								<h3><b>Software Engineer @ Canva </b><br> <a href="https://www.linkedin.com/in/michaelkendra/">https://www.linkedin.com/in/michaelkendra/</a></h3>
+								<p>Michael Kendra despite only being an IT Professional for 4 years has acquired various 
+								lucrative experiences in different employments, starting his career at Polish company 
+								Evojam as an intern before acquiring a permanent position. From Evojam Michael would 
+								use his experience to become a software engineer at FairFax Media not long before joining 
+								Canva through a rigorous process of employment where he was chosen for the position out of 
+								100 applicants. Michael describes Scala as his &#39;bread and butter&#39; whilst claiming to be 
+								&#34;constantly learning, practicing and improving in writing high-quality and scalable 
+								backends for web applications&#34;.</p>
+									<center>
+									<span class="image"><img src="images/olivierbrotherpic.jpg" alt="" /></span>
+									</center>
+								<h2><strong>What kind of work is done by the IT professional?</strong></h2>
+								<p><strong>Q: The role of &#39;Software Engineer&#39; varies across each position, in your current employment
+ 								what does the role demand from you?</strong>
+								<br>
+								<b>A:</b> Closely working with people who have a certain vision for the product, providing the 
+								technical ability to deliver their vision to reality, and the initiative to go beyond what 
+								is asked of you due to the rapid development of Canva there isn&#39;t always someone there to 
+								hold your hand.</p>
+
+								<h2><strong>What kind of people does the IT professional interact with? Are they other IT professionals? Clients? Investors? The general public?</strong></h2>
+								<p><strong>Q: There to this day seems to be a &#39;stereotype&#39; where people assume that the average IT professional 
+								makes little to no contact with fellow colleagues, in your experience how untrue or true is 
+								this?</strong>
+								<br>
+								<b>A:</b> 100% untrue because simply, no good work is done in isolation. The best companies work 
+								in teams. To create something effective you need to work with designers and even the CEO, 
+								you can&#39;t deliver on your own.
+								<br>
+								<strong>Q: Aside from fellow colleagues, do you interact with clients, investors or even the general public?</strong>
+								<br>
+								<b>A:</b> Not directly with the general public. On Fridays we have what are called &#39;Public 
+								Standups&#39; where the CEO talks with the company about things such as user feedback and she 
+								might ask us to create mockups to see if we can satisfy their requests so directly no, 
+								but instead indirectly. It&#39;s tricky because that interaction with the general public takes 
+								skill and we have completely separate teams who work directly with the general public.</p>
+			
+								<h2><b>Where does the IT professional spend most of their time?</b></h2>
+								<p><b>Q: In an average day at work, where do you spend most of your time?</b>
+								<br>
+								<b>A:</b> Lately not at my desk due to the amount of meetings I&#39;ve had. But in a more general 
+								sense I would find myself at my desk.
+								<br>
+								<b>Q: Naturally as an IT professional lots of your time is no doubt spent at a desk, are there 
+								any opportunities for you to &#39;break away&#39; from your desk?</b>
+								<br>
+								<b>A:</b> Yes, we have a cafe in the building where a lot of the time we would go down to get 
+								coffee. We also have designated lunch times. Meetings are another time to get away from the 
+								desk things like project management, engineering forums etc. We also have kitchens where 
+								we can make something to eat.<p>
+
+								<h2><b>What aspect of their position is most challenging?</b></h2>
+								<p><b>Q: As a Software Engineer at Canva, which aspect of your position would you say is 
+								&#39;most challenging&#39;?</b>
+								<br>
+								<b>A:</b> The fact that the company is moving so quickly because we have to make sure to maintain 
+								high quality in engineering and high quality in company culture to make sure it&#39;s improving.
+								<br>
+								<b>Q: When you encounter such challenges, what is your process of working through them?</b>
+								<br>
+								<b>A:</b> There&#39;s a big focus on processes like code review as well as people writing design 
+								documents. Also there&#39;s a huge focus on how new hires are brought into the company, 
+								long process of onboarding - getting time to learn the company which is in itself a 
+								challenge, overcoming these growing pains. But all these processes, the long onboarding, 
+								the design documents are all made to ensure when we reach challenges we know how to go 
+								about them and so that others can help us more easily.</p>
+
+	
 					<center>
 					<a href="index.html" class="button">Back to Home</a></li>
 					</center>
@@ -48,8 +112,6 @@
 							<h2></h2>
 							<dl class="alt">
 
-								<dt>Email</dt>
-								<dd><a href="#">information@untitled.tld</a></dd>
 							</dl>
 							<ul class="icons">
 	
